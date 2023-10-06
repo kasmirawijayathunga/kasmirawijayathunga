@@ -19,6 +19,8 @@ I am an Engineering undergraduate with a background in IT. I am a highly motivat
     </a>
 </div>
 
+&nbsp;
+
 📧 <a href="mailto:mahidhawijayathunga@gmail.com">Send an e-mail</a>
 
 🌐 <a href="https://wijayathunga.com">Checkout my website</a>
